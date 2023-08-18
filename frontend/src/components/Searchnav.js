@@ -18,12 +18,6 @@ const Searchnav = ({history}) => {
         <InputRightElement children={ <MdSearch/>} />
         </InputGroup>
 
-
-                          
-        
-        
-    
-
     )
 }
 
