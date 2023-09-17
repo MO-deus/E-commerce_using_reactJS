@@ -26,9 +26,6 @@ If you are logged in as an admin a button in navbar will show up which gives you
 - Users :
 <img width = "800" src="https://i.imgur.com/sCdikSM.png"/>  
 
-- Edit :
-<img width = "300" src="https://i.imgur.com/U7LXWm0.png"/>
-
 - Orders :
 <img width = "800" src="https://i.imgur.com/wyyvpYQ.png"/>
 
